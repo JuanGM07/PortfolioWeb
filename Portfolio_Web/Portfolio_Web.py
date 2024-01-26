@@ -35,7 +35,7 @@ text:dict={
     },
     "heading":{
                 "font_size":["2rem","2.85rem", "4rem","5rem","5rem"],
-                "font_weight":"400",
+                "font_weight":"500",
                 "_dark":{
                     "background":"linear-gradient(to right, #e1e1e1,#757575)",
                     "background_clip":"text",
